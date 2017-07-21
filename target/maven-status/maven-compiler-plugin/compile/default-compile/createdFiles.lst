@@ -1,0 +1,6 @@
+com/xsx/test/model/EmpExample.class
+com/xsx/test/dao/EmpMapper.class
+com/xsx/test/model/EmpExample$Criteria.class
+com/xsx/test/model/EmpExample$GeneratedCriteria.class
+com/xsx/test/model/Emp.class
+com/xsx/test/model/EmpExample$Criterion.class
